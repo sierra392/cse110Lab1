@@ -33,6 +33,6 @@ Here are some goals I'd like to accomplish (and some I already have)
 
 ## Navigation Help 
 >Links to parts of this page:
-- [Link to General Introduction](https://github.com/sierra392/cse110Lab1/blob/main/index.md#general-introduction)
-- [Link to Experience with Programming](https://github.com/sierra392/cse110Lab1/blob/main/index.md#experience-with-programming)
-- [Link to Goals](https://github.com/sierra392/cse110Lab1/blob/main/index.md#goals)
+- [Link to General Introduction](https://sierra392.github.io/cse110Lab1/#general-introduction)
+- [Link to Experience with Programming](https://sierra392.github.io/cse110Lab1/#experience-with-programming)
+- [Link to Goals](https://sierra392.github.io/cse110Lab1/#goals)
