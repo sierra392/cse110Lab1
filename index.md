@@ -2,9 +2,8 @@
 
 ## General Introduction
 Hello my name is Sierra Myers and I am a second year computer science major at _UCSD_. I am from Ventura, CA and a fun fact about me is a have a chocolate lab named Coco.
-![Picture of my Dog](https://drive.google.com/file/d/1k1aNpCxxYOGcTKoGPSJ1kAwGwUMPiJSU/view?usp=sharing)
->Picture of my dog Coco
-***Some of Coco's Favorite Things***
+![Picture of my Dog](PictureOfCoco.jpeg)
+>***Some of Coco's Favorite Things***
 - Walks in the neighborhood
 - Food
 - Pets
