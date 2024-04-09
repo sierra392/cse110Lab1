@@ -5,8 +5,7 @@ Hello my name is Sierra Myers and I am a second year computer science major at _
 ![Picture of my dog](PictureOfCoco.jpeg)
 
 *More photos of my dog*
-[Coco at the beach](beach.jpeg)
-[Coco resting](rest.jpeg)
+[Coco at the beach](beach.jpeg), [Coco resting](rest.jpeg)
 
 >***Some of Coco's Favorite Things*** 
 - Walks in the neighborhood
@@ -34,6 +33,6 @@ Here are some goals I'd like to accomplish (and some I already have)
 
 ## Navigation Help 
 >Links to parts of this page:
-[Link to General Introduction](https://github.com/sierra392/cse110Lab1/blob/main/index.md#general-introduction)
-[Link to Experience with Programming](https://github.com/sierra392/cse110Lab1/blob/main/index.md#experience-with-programming)
-[Link to Goals](https://github.com/sierra392/cse110Lab1/blob/main/index.md#goals)
+- [Link to General Introduction](https://github.com/sierra392/cse110Lab1/blob/main/index.md#general-introduction)
+- [Link to Experience with Programming](https://github.com/sierra392/cse110Lab1/blob/main/index.md#experience-with-programming)
+- [Link to Goals](https://github.com/sierra392/cse110Lab1/blob/main/index.md#goals)
